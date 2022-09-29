@@ -1,0 +1,23 @@
+{
+  "name": "unity-web-link",
+  "version": "0.0.1",
+  "description": "A package for communicating with Unity WebGL builds via the browser using JSON. ",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "Unity",
+    "JavaScript",
+    "TypeScript",
+    "JSON",
+    "WebGL",
+    "Builds",
+    "Unity3D"
+  ],
+  "author": "Haydn Comley",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^7.5.6"
+  }
+}
