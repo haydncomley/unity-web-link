@@ -1,6 +1,6 @@
 {
   "name": "unity-web-link",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A package for communicating with Unity WebGL builds via the browser using JSON. ",
   "main": "dist/index.js",
   "scripts": {
